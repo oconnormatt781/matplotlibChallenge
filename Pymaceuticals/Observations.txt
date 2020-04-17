@@ -1,0 +1,7 @@
+- Most drugs were attempted on around the same number of mice.
+
+- The average tumor volume for all mice was 50.44, with a range of 22.05 - 78.56.
+
+- There were ten total drug regimens used.
+
+ 
